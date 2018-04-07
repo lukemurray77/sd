@@ -1,0 +1,30 @@
+.pull-right {
+  margin-left: auto;
+}
+
+.navbar {
+  height: 140px;
+}
+
+.sd-logo {
+  height: 120px;
+  width: 150px;
+  margin: auto;
+  top: 2vh;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  position: absolute;
+  border-radius: 20%;
+}
+
+.sd-logo img {
+  max-height: 120px;
+  border-radius: 50%;
+  margin: auto;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  position: absolute;
+}
